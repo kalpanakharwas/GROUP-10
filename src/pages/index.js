@@ -4,7 +4,7 @@ import layout from "../components/layout/layout"
 export default function Home() {
   return(<layout>
 
-  <div>index page</div>
+  <div>index page!!!!</div>
 
   </layout>
   
